@@ -1,4 +1,5 @@
-# The following details containt 2 examples of Internal Documentation (or commenting) in 
+#
+# The following details containt 2 examples of Internal Documentation (or commenting) in
 # relation to the inclusion of code you may may have copied from other resources, but 
 # have included in your program. The two exmaples are referred to as Example 1 and Example 2.
 
